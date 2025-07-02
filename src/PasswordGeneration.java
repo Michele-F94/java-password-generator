@@ -42,8 +42,6 @@ public class PasswordGeneration {
         // Stampa della password
         System.out.println("La tua password generata è: " + password);
        
-        // Chiusura dello scanner
-        scan.close();
         
     }
 
